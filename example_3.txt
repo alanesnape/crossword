@@ -1,0 +1,69 @@
+Please enter the words for the crossword followed by a "."
+NotreDame
+fightingirish
+UND
+computer
+CSE
+programming
+keyboard
+code
+function
+loop
+not
+if
+.
+
+SOLUTION:
+-----------------
+|.......F.......|
+|.......U..K....|
+|......UND.E....|
+|.......C..Y....|
+|...P.NOT..B....|
+|...R...I.LOOP..|
+|...O...O..A....|
+|.FIGHTINGIRISH.|
+|...R..F...D....|
+|...A...........|
+|.COMPUTER......|
+|.O.M.......C...|
+|.D.I.......S...|
+|.E.NOTREDAME...|
+|...G...........|
+-----------------
+
+PUZZLE:
+-----------------
+|####### #######|
+|####### ## ####|
+|######   # ####|
+|####### ## ####|
+|### #   ## ####|
+|### ### #    ##|
+|### ### ## ####|
+|#             #|
+|### ## ### ####|
+|### ###########|
+|#        ######|
+|# # ####### ###|
+|# # ####### ###|
+|# #         ###|
+|### ###########|
+-----------------
+
+CLUES:
+Location | Direction | Anagram
+    1, 7 |    Across | TISHFIGINRHGI
+    3, 4 |      Down | ANPGMRROGIM
+    3,13 |    Across | EEDMTRANO
+    1,10 |    Across | MREUCTPO
+   10, 1 |      Down | EYBAORKD
+    7, 0 |      Down | UOCFTNNI
+    1,10 |      Down | EDCO
+    9, 5 |    Across | OLPO
+    6, 2 |    Across | NDU
+   11,11 |      Down | ESC
+    5, 4 |    Across | NTO
+    6, 7 |      Down | FI
+
+历史对话

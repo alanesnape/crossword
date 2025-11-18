@@ -1,0 +1,75 @@
+
+Anagram Crossword Puzzle Generator
+----------------------------------
+
+Enter a list of words:
+NotreDame
+fightingirish
+UND
+computer
+CSE
+programming
+keyboard
+code
+function
+loop
+not
+if
+.
+
+Solution:
+-----------------
+|.............C.|
+|...........LOOP|
+|.............D.|
+|.......COMPUTER|
+|..........R....|
+|......KEYBOARD.|
+|.I........G....|
+|.FIGHTINGIRISH.|
+|..........A....|
+|...NOTREDAME...|
+|...O......M.U..|
+|...T.FUNCTION..|
+|........S.N.D..|
+|........E.G....|
+|...............|
+-----------------
+
+
+Crossword Puzzle:
+-----------------
+|############# #|
+|###########    |
+|############# #|
+|#######        |
+|########## ####|
+|######        #|
+|# ######## ####|
+|#             #|
+|########## ####|
+|###         ###|
+|### ###### # ##|
+|### #        ##|
+|######## # # ##|
+|######## # ####|
+|###############|
+-----------------
+
+
+Clues:
+
+ 1, 6 Down   FI
+ 1, 7 Across HRGIGINITHIFS
+ 3, 9 Across TANRDEEOM
+ 3, 9 Down   OTN
+ 5,11 Across NTIOCNUF
+ 6, 5 Across DYAEOBKR
+ 7, 3 Across UERCOMPT
+ 8,11 Down   CES
+10, 3 Down   IRGMMPRNGOA
+11, 1 Across OOLP
+12,10 Down   NDU
+13, 0 Down   DEOC
+
+历史对话
